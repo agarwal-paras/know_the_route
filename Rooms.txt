@@ -1,0 +1,136 @@
+0
+MPH
+1
+Outside
+2
+Administrative Block
+3
+Outside
+4
+Physics Lab
+5
+CL-2
+6
+CL-1
+7
+VSLI Lab
+8
+Stairs(G)(A)(Near MPH)
+9
+Stairs(G)(A)(Near VLSI Lab)
+10
+Temple
+11
+LRC
+12
+Annapurana
+13
+Cafe 1
+14
+Stairs(G)(B)(Near LRC)
+15
+Washroom(G)(B)
+16
+Washroom(A)(G)
+17
+Cafe 2
+18
+Stairs(G)(Near Cafe 2)
+19
+Washroom(I)(A)
+20
+Stairs(I)(Near CR-1)
+21
+CR-1
+22
+CR-2
+23
+TR-1
+24
+TR-2
+25
+LT-2
+26
+LT-1
+27
+TR-3
+28
+Faculty Block A(I)
+29
+Stairs(I)(Near TR-3)
+30
+Electromagnetic Lab
+31
+Communication System Lab
+32
+DSP Lab
+33
+TR-10
+34
+TR-11
+35
+Poject Lab 1(CSE)
+36
+VSLI Lab 2
+37
+CIC Lab
+38
+Project Lab 2(ECE)
+39
+Faculty Block B(I)
+40
+Stairs(I)(Near Faculty Block B(I))
+41
+LT-7,LT-8,CL-3,CL-4
+42
+Washroom(I)(B)
+43
+Stairs(I)(Near Washroom(I)(B))
+44
+Washroom(II)(A)
+45
+CR-3
+46
+Humanities Computer Lab
+47
+ADE Lab
+48
+CR-4
+49
+CR-5
+50
+CR-6
+51
+TR-4
+52
+TR-5
+53
+BEDC Lab
+54
+Faculty Block A(II)
+55
+Micro Controller Lab
+56
+CR-8
+57
+CR-9
+58
+Faculty Block (II)(B)
+59
+TR-10
+60
+TR-11
+61
+HSS Lab
+62
+HSS Faculty Block
+63
+Washroom (II)(B)
+64
+LT-4,LT-5,LT-6
+65
+Ground
+66
+Stairs(Near Faculty Block(I)(A)-2)
+67
+Stairs (Near Washroom)(II)(A)
